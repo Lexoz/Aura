@@ -64,7 +64,7 @@ namespace Aura
 
         private void Form2_Load(object sender, EventArgs e)
         {
-
+            //
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
